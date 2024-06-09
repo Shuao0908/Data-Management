@@ -1,0 +1,4 @@
+2023-05-05 22:00:05, Ounce, Gold, GBP, 2016.85
+2023-05-05 22:00:05, Ounce, Silver, GBP, 25.52
+2023-05-05 22:00:05, Ounce, Platinum, GBP, 1064.88
+2023-05-05 22:00:05, Ounce, Palladium, GBP, 1528.24
